@@ -1,5 +1,3 @@
-
-"
 #     Energy-Mix Optimizer
 
 > **Predict Solar & Wind output, forecast demand & automatically recommend the cheapest, lowest-carbon generation mix for the next 24 h.**  
