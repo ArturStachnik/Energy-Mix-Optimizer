@@ -34,7 +34,7 @@ energy-mix-optimizer/
 │   └─ utils.py                   shared helpers
 ├─ app/
 │   └─ dashboard.py               Streamlit front-end (mix explorer)
-├─ notebooks/                     exploratory & benchmarking notebooks
+├─ example_usage_colab.ipynb      Interactive notebook to predict renewables and optimise the energy mix using real data inputs
 ├─ tests/                         unit tests (pytest)
 ├─ README.md                      ← you are here
 └─ requirements.txt
