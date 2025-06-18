@@ -155,4 +155,3 @@ streamlit run app/dashboard.py
 
 **Code:** MIT Licence  
 **Note:** Please respect original dataset licences from ESIOS, OMIE, and Copernicus CDS.
-"
