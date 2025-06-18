@@ -151,7 +151,38 @@ streamlit run app/dashboard.py
   year         = 2025,
   url          = {https://github.com/ArturStachnik/energy-mix-optimizer}
 }
-```
-
+´´´
 **Code:** MIT Licence  
 **Note:** Please respect original dataset licences from ESIOS, OMIE, and Copernicus CDS.
+
+## 9. Why I built this
+
+As a PhD researcher working at the intersection of climate science and data science, I built this project to showcase how machine learning and optimisation can directly solve real-world problems in the energy sector.
+
+My goal is to combine academic rigour with practical impact — and contribute to the future of smart, sustainable energy systems.
+
+If you're a company working on energy transition, power systems, or climate-tech, I’d love to hear from you!
+
+---
+
+## 10. Real-world applicability
+
+This project is designed with production in mind:
+
+- ⛅ Compatible with both forecast and nowcast weather sources
+- ⚙️ Modular design: models and pipeline can be deployed as APIs
+- 📈 Extendable to multi-node or multi-country systems
+- 📊 Dashboard-ready for integration with trading/dispatch platforms
+
+---
+
+## 11. Let’s connect
+
+You can find more about my research and projects here:
+
+- 🔬 [ResearchGate](https://www.researchgate.net/profile/Artur-Stachnik)
+- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/artur-stachnik/)
+- 💻 [GitHub](https://github.com/ArturStachnik)
+
+> Looking for internship, research, or full-time roles in:  
+> **Renewable energy forecasting • Climate & weather data science • Optimisation for energy systems**
