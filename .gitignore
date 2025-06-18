@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter and Streamlit artifacts
+.ipynb_checkpoints/
+*.streamlit/
+
+# Data and cache files
+*.csv
+*.zip
+*.tar.gz
+*.h5
+*.nc
+*.json
+*.log
+*.db
+
+# Credentials and API keys
+cdsapirc
+*.env
+
+# System and IDE configs
+.DS_Store
+*.vscode/
+*.idea/
+
+# Compiled notebooks and outputs
+notebooks/*_output.ipynb
