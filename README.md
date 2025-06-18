@@ -151,9 +151,11 @@ streamlit run app/dashboard.py
   year         = 2025,
   url          = {https://github.com/ArturStachnik/energy-mix-optimizer}
 }
-´´´
 **Code:** MIT Licence  
 **Note:** Please respect original dataset licences from ESIOS, OMIE, and Copernicus CDS.
+
+```
+---
 
 ## 9. Why I built this
 
