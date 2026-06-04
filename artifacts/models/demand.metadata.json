@@ -1,0 +1,56 @@
+{
+  "target_kind": "demand",
+  "feature_columns": [
+    "temperature_2m",
+    "hour",
+    "day_of_week",
+    "month",
+    "is_weekend",
+    "hour_sin",
+    "hour_cos",
+    "doy_sin",
+    "doy_cos",
+    "is_holiday",
+    "lag_24h",
+    "lag_48h",
+    "lag_168h",
+    "rolling_mean_24h"
+  ],
+  "trained_at_utc": "2026-06-04T09:45:32+00:00",
+  "training_data_start": "2024-01-07 23:00:00+00:00",
+  "training_data_end": "2024-06-30 21:00:00+00:00",
+  "test_metrics": {
+    "n_samples": 629,
+    "mae": 1216.40708838434,
+    "rmse": 1583.9469574873178,
+    "nmae_percent": 4.746228339852738,
+    "mape_percent": 4.889194154241367
+  },
+  "cv_metrics_mean": {
+    "n_samples": 699,
+    "mae": 1002.8125083825107,
+    "rmse": 1374.3463765481968,
+    "nmae_percent": 3.9466783517077593,
+    "mape_percent": 4.014033035959896
+  },
+  "cv_metrics_std": {
+    "mae": 164.33956786375995,
+    "rmse": 249.35450275539324,
+    "nmae_percent": 0.6992734991790088,
+    "mape_percent": 0.7860964632180064
+  },
+  "xgboost_version": "3.2.0",
+  "package_version": "0.2.0",
+  "hyperparameters": {
+    "n_estimators": 600,
+    "learning_rate": 0.05,
+    "max_depth": 6,
+    "min_child_weight": 5,
+    "subsample": 0.85,
+    "colsample_bytree": 0.85,
+    "reg_lambda": 1.0,
+    "random_state": 42,
+    "n_jobs": -1,
+    "tree_method": "hist"
+  }
+}
